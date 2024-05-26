@@ -1,4 +1,7 @@
-# TinDog Project
+# Pawble Project
+My version of the TinDog Project task given by Dr Angela Yu in the Complete Web Development Course 2024 on Udemy.
+
+## TinDog Project
 
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
 https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
